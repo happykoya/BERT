@@ -9,7 +9,7 @@ from datetime import datetime, timedelta, time
 
 current_weather_url = 'https://api.openweathermap.org/data/2.5/weather'
 forecast_url = 'https://api.openweather.org/data.2.5/forecast'
-appid = 'acaf520e1091da218e493e33c01b6281'
+appid = '99999999999999999999999999999'
 
 prefs = ["三重","京都","佐賀","兵庫","北海道","千葉","和歌山",
          "埼玉","大分","大阪","奈良","宮城","宮崎","富山","山口","山形","山梨",
