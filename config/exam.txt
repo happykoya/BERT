@@ -1,4 +1,4 @@
-da = request-weather
+da=request-weather
 <place>大阪</place>
 <place>大阪</place>です
 <date>明日</date>
@@ -30,7 +30,7 @@ da=initialize
 キャンセル
 すべてキャンセル
 
-da = correct-info
+da=correct-info
 <place>大阪</place>じゃない
 <place>大阪</place>じゃなくて
 <place>大阪</place>じゃないです
