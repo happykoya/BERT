@@ -3,7 +3,7 @@
 import openai
 
 
-openai.api_key = "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"
+openai.api_key = ""
 
 response = openai.ChatCompletion.create(
     model="gpt-3.5-turbo",
