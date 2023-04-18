@@ -21,7 +21,7 @@ def draw_word_scatter(word, topn=30):
     # Scikit-learnのPCAによる次元削減とその可視化
     pca = PCA(n_components=2)
     coords = pca.fit_transform(vecs)
-    
+    print(coords)
     # matplotlibによる可視化
     fig, ax = plt.subplots()
     x = [v[0] for v in coords]
